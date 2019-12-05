@@ -7,7 +7,7 @@ comments: false
 ---
 
 Hi!
-I am a research assistant to [Prof. Vineeth N Balasubramanian](https://www.iith.ac.in/~vineethnb/) at [Indian Institute Of Technology Hyderabad](https://cse.iith.ac.in/), mainly working on deep active learning for image data. My interests are in the intersection of computer vision and learning with limited labeled data. I collaborated with [Dr. Wei Guo](https://scholar.google.co.jp/citations?user=pnMyJLEAAAAJ&hl=zh-CN) from University of Tokyo while working towards solving some data labeling challenges in crop phenotyping. 
+I am a research assistant to [Prof. Vineeth N Balasubramanian](https://www.iith.ac.in/~vineethnb/) at [Indian Institute Of Technology Hyderabad](https://cse.iith.ac.in/), mainly working on deep active learning for image data. My interests are in the intersection of computer vision and learning with limited labeled data. 
 
 Before joining Dr. Vineeth's group in December 2018, I spent 16 months working on machine learning and data science projects at [GGK Technologies](https://ggktech.com/), a service-based company in Hyderabad. At GGK Technologies, I spent most of my time learning, implementing, and optimizing various machine learning/deep learning pipelines of clients in US health care and retail domains.
 
@@ -19,11 +19,6 @@ I completed my undergraduate from Department of Computer Science and Engineering
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
-    <tr>
-        <td valign="top"><strong>[Oct. 2019]</strong></td>
-        <td>Served as a subreviewer for SIAM International Conference on Data Mining, 2020 (<a href="https://www.siam.org/conferences/cm/conference/sdm20">SDM20</a>).
-        </td>
-    </tr>
     <tr>
         <td valign="top"><strong>[Sep. 2019]</strong></td>
         <td>Completed writing a tutorial series (6 articles) on how neural networks "learn". Check out <a href="https://towardsdatascience.com/tagged/learning-parameters">Learning Parameters</a> series on Medium.
