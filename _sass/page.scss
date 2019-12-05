@@ -353,6 +353,7 @@ $button-size: 1.5rem;
 }
 .article-author-side,
 .article-author-bottom {
+	text-align: left;
 	h3 {
 		margin-bottom: 0;
 	}
@@ -366,6 +367,24 @@ $button-size: 1.5rem;
 }
 
 /* Default social media links in author sidebar */
+.author-group-web  {
+	background: yellow;
+	display: none;
+	// height: 0;
+	// width: 0;
+}
+
+.author-group-mobile  {
+	i {
+		font-size: 1.7em;
+	}
+	width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
 .author-social {
   display: block;
   margin-bottom: 5px;
@@ -387,16 +406,31 @@ $button-size: 1.5rem;
 
 /* Author sidebar */
 .article-author-side {
-	display: none;
+	// display: none;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-bottom: 50px;
+	
 	.bio-photo {
 		max-width: 110px;
 		@include rounded(10px);
 	}
 	@media #{$small} {
 		display: block;
+		text-align: left;
 		@include grid(12,2);
 		@include prefix(12,0.5);
 		@include suffix(12,0.5);
+
+		.author-group-web {
+			display: inline;
+		}
+		.author-group-mobile {
+			display: none;
+		}
+
 		h3,
 		p,
 		.author-social {
@@ -415,6 +449,12 @@ $button-size: 1.5rem;
 		}
 	}
 	@media #{$large} {
+		.author-group-mobile {
+			display: none;
+		}
+		.author-group-web {
+			display: inline;
+		}
 		h3,
 		.bio-photo,
 		p,
@@ -425,15 +465,18 @@ $button-size: 1.5rem;
 	@media #{$x-large} {
 		@include grid(12,1.5);
 		@include prefix(12,2);
+		.author-group-mobile {
+			display: none;
+		}
+		.author-group-web {
+			display: inline;
+		}
 	}
 }
 
 /* Author module - mobile only */
 .article-author-bottom {
 	margin-bottom: 1em;
-	@media #{$small} {
-		display: none;
-	}
 	.bio-photo {
 		float: left;
 		margin-right: 25px;
