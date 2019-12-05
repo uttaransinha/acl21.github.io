@@ -20,6 +20,11 @@ I completed my undergraduate from Department of Computer Science and Engineering
     <col width="15%">
     <col width="85%">
     <tr>
+        <td valign="top"><strong>[Oct. 2019]</strong></td>
+        <td>Served as a subreviewer for SIAM International Conference on Data Mining, 2020 (<a href="https://www.siam.org/conferences/cm/conference/sdm20">SDM20</a>).
+        </td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[Sep. 2019]</strong></td>
         <td>Completed writing a tutorial series (6 articles) on how neural networks "learn". Check out <a href="https://towardsdatascience.com/tagged/learning-parameters">Learning Parameters</a> series on Medium.
         </td>
