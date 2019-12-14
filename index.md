@@ -20,6 +20,11 @@ I completed my undergraduate from Department of Computer Science and Engineering
     <col width="15%">
     <col width="85%">
     <tr>
+        <td valign="top"><strong>[Dec. 2019]</strong></td>
+        <td>Delighted to have received the <a href="https://www.udacity.com/scholarships/intel-edge-ai-scholarship">Intel® Edge AI Scholarship</a> at Udacity.
+        </td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[Oct. 2019]</strong></td>
         <td>Served as a subreviewer for SIAM International Conference on Data Mining, 2020 (<a href="https://www.siam.org/conferences/cm/conference/sdm20">SDM20</a>).
         </td>
@@ -44,6 +49,11 @@ I completed my undergraduate from Department of Computer Science and Engineering
     <tr>
         <td valign="top"><strong>[Dec. 2018]</strong></td>
         <td> Joined <a href="https://www.iith.ac.in/~vineethnb/">Dr. Vineeth N Balasubramanian</a>'s research group at IIT-Hyderabad.
+        </td>
+    </tr>
+        <tr>
+        <td valign="top"><strong>[Dec. 2019]</strong></td>
+        <td>Delighted to have received the <a href="https://www.udacity.com/facebook-pytorch-scholarship">PyTorch Scholarship from Facebook</a> at Udacity.
         </td>
     </tr>
 	<tr>
@@ -82,7 +92,7 @@ I completed my undergraduate from Department of Computer Science and Engineering
         </td>
     <tr>
         <tr>
-            <td>IIT, Hyderabad<br>2018-present</td>
+            <td>IIT Hyderabad<br>2018-present</td>
             <td>GGK Technologies<br>2017-2018</td>
             <td>JNTU Hyderabad (KMIT)<br>2013-2017</td>
         </tr>
