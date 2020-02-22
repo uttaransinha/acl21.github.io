@@ -16,9 +16,16 @@ I completed my undergraduate from Department of Computer Science and Engineering
 ----
 
 <h3 align="center">News</h3>
+<div style="height:600px;overflow-x:auto;">
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
+	 <tr>
+        <td valign="top"><strong>[Feb. 2020]</strong></td>
+        <td>Our paper, <a href="http://arxiv.org/abs/1910.01789">Active Learning with Point Supervision for Cost-Effective Panicle Detection in Cereal Crops</a>,
+        has been accepted to <a href="https://plantmethods.biomedcentral.com/">BMC Plant Methods</a> journal. <span style="color:blue;font-size:12px" >[Impact Factor: 4.6]  </span>
+        </td>
+    </tr>
     <tr>
         <td valign="top"><strong>[Dec. 2019]</strong></td>
         <td>Delighted to have received the <a href="https://www.udacity.com/scholarships/intel-edge-ai-scholarship">Intel® Edge AI Scholarship</a> at Udacity.
@@ -72,7 +79,7 @@ I completed my undergraduate from Department of Computer Science and Engineering
 		</td>
     </tr>
 </table>
-
+</div>
 ----
 
 <h3 align="center">Affiliations</h3>

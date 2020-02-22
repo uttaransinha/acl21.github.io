@@ -7,4 +7,4 @@ comments: true
 ---
 
 My latest resume: [One Page](/reports/akshay-resume.pdf) and [Two Page](/reports/akshay-cv.pdf)  
-*Updated: September 13, 2019*
+*Updated: Februrary, 2020*

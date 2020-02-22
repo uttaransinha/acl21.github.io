@@ -7,13 +7,13 @@ comments: false
 ---
 
 My interests broadly lie in the fields of computer vision, machine learning and learning with limited labeled data (mainly active learning).
-I recently got interested in understanding how useful domain adaptation can be in learning actively. 
+I recently got interested in understanding how deep active learning can be accelerated. 
 
 ### Publications
 
 1. **Akshay L Chandra**, S.V. Desai, Vineeth N Balasubramanian, S. Ninomiya, Wei Guo  
-[Active Learning with Weak Supervision for Panicle Detection in Cereal Crops]()  
-*Preprint. Under review as a journal paper at BMC Plant Methods.*  
+[Active Learning with Point Supervision for Cost-Effective Panicle Detection in Cereal Crops]()  
+*BioMed Central Plant Methods Journal (BMC), 2020*  <span style="color:blue;font-size:12px" >[Impact Factor: 4.6]  
 [<button type="button" class="btn btn-success">Poster</button>]()
 [<button type="button" class="btn btn-danger">ArXiv</button>](http://arxiv.org/abs/1910.01789)
 [<button type="button" class="btn btn-info">Code</button>]()
