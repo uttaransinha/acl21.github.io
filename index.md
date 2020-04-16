@@ -21,8 +21,13 @@ I completed my undergraduate from Department of Computer Science and Engineering
     <col width="15%">
     <col width="85%">
 	 <tr>
+        <td valign="top"><strong>[Mar. 2020]</strong></td>
+        <td>Our survey article, <a href="https://journal.accsindia.org/computer-vision-with-deep-learning-for-plant-phenotyping-in-agriculture-a-survey/">Computer Vision with Deep Learning for Plant Phenotyping in Agriculture</a> is now available on <a href="https://journal.accsindia.org/">Advanced Computing & Communications (ACC)</a>, a quarterly publication of <a href="https://accsindia.org/">ACCS</a>, India. 
+        </td>
+    </tr>
+	 <tr>
         <td valign="top"><strong>[Feb. 2020]</strong></td>
-        <td>Our paper, <a href="http://arxiv.org/abs/1910.01789">Active Learning with Point Supervision for Cost-Effective Panicle Detection in Cereal Crops</a>,
+        <td>Our paper, <a href="https://plantmethods.biomedcentral.com/articles/10.1186/s13007-020-00575-8">Active Learning with Point Supervision for Cost-Effective Panicle Detection in Cereal Crops</a>,
         has been accepted to <a href="https://plantmethods.biomedcentral.com/">BMC Plant Methods</a> journal. <span style="color:blue;font-size:12px" >[Impact Factor: 4.6]  </span>
         </td>
     </tr>
@@ -50,7 +55,7 @@ I completed my undergraduate from Department of Computer Science and Engineering
     </tr>
     <tr>
         <td valign="top"><strong>[Apr. 2019]</strong></td>
-        <td>Released an easy-to-use python library, <a href="https://github.com/acl21/image_bbox_slicer">Image Bounding Box Slicer</a> that splits images and their bounding box annotations into tiles, both into specific sizes and into any arbitrary number of equal parts.
+        <td>Released an easy-to-use python library, <a href="https://github.com/acl21/image_bbox_slicer">Image Bounding Box Slicer</a> that slices images and their bounding box annotations into tiles, both into specific sizes and into any arbitrary number of equal parts.
         </td>
     </tr>
     <tr>

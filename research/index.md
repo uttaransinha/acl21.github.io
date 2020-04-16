@@ -15,7 +15,7 @@ I recently got interested in understanding how deep active learning can be accel
 [Active Learning with Point Supervision for Cost-Effective Panicle Detection in Cereal Crops]()  
 *BioMed Central Plant Methods Journal (BMC), 2020*  <span style="color:blue;font-size:12px" >[Impact Factor: 4.6]  
 [<button type="button" class="btn btn-success">Poster</button>]()
-[<button type="button" class="btn btn-danger">ArXiv</button>](http://arxiv.org/abs/1910.01789)
+[<button type="button" class="btn btn-danger">BMC</button>](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-020-00575-8)
 [<button type="button" class="btn btn-info">Code</button>]()
 <!-- [<button type="button" class="btn btn-warning">Code</button>]()  -->
 <!-- [<button type="button" class="btn">Video</button>]() -->
