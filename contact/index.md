@@ -20,10 +20,9 @@ comments: false
  <br> -->
 
 **Akshay L Chandra**  
-Email:  
+Email:
 
-* [firstname] [lastname] [at] iith [dot] ac [dot] in  
-* contact [at] [domain]
+* email [at] [domain]
 
 Address:  
 AI Lab, 2nd Floor, D-Block,  

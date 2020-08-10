@@ -21,7 +21,22 @@ I completed my undergraduate from Department of Computer Science and Engineering
 <table class='news-table' >
     <col width="15%">
     <col width="85%">
-	 <tr>
+    <tr>
+        <td valign="top"><strong>[Aug. 2020]</strong></td>
+        <td>Our joint project with <a href="https://scholar.google.co.jp/citations?user=pnMyJLEAAAAJ&hl=zh-CN">Prof. Guo</a>, <a href="https://github.com/lab1055/easy-rfp">EasyRFP: An Easy to Use Edge Computing Toolkit for Real-Time Field Phenotyping</a> is accepted as an extended abstract at Computer Vision Problems in Plant Phenotyping Workshop (<a href="https://www.plant-phenotyping.org/CVPPP2020/">CVPPPW-ECCV</a>) and as an academic demostration at European Conference on Computer Vision, 2020 (<a href="https://eccv2020.eu/">ECCV2020</a>).
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Jul. 2020]</strong></td>
+        <td>Served as a subreviewer for Neural Information Processing Systems conference (<a href="https://nips.cc/">NeurIPS2020</a>) and Computer Vision Problems in Plant Phenotyping Workshop (<a href="https://www.plant-phenotyping.org/CVPPP2020/">CVPPPW-ECCV</a>).
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[May. 2020]</strong></td>
+        <td>Served as a subreviewer for European Conference on Computer Vision, 2020 (<a href="https://eccv2020.eu/">ECCV2020</a>).
+        </td>
+    </tr>
+	<tr>
         <td valign="top"><strong>[Mar. 2020]</strong></td>
         <td>Our survey article, <a href="https://journal.accsindia.org/computer-vision-with-deep-learning-for-plant-phenotyping-in-agriculture-a-survey/">Computer Vision with Deep Learning for Plant Phenotyping in Agriculture</a> is now available on <a href="https://journal.accsindia.org/">Advanced Computing & Communications (ACC)</a>, a quarterly publication of <a href="https://accsindia.org/">ACCS</a>, India. 
         </td>

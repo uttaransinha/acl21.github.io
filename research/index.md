@@ -7,16 +7,16 @@ comments: false
 ---
 
 My interests broadly lie in the fields of computer vision, machine learning and learning with limited labeled data (mainly active learning).
-I recently got interested in understanding how deep active learning can be accelerated. 
+I am currently working towards understanding how deep active learning can be accelerated. 
 
 ### Publications
 
 1. **Akshay L Chandra**, S.V. Desai, Vineeth N Balasubramanian, S. Ninomiya, Wei Guo  
-[Active Learning with Point Supervision for Cost-Effective Panicle Detection in Cereal Crops]()  
+[Active Learning with Point Supervision for Cost-Effective Panicle Detection in Cereal Crops](https://arxiv.org/abs/1910.01789)  
 *BioMed Central Plant Methods Journal (BMC), 2020*  <span style="color:blue;font-size:12px" >[Impact Factor: 4.6]  
-[<button type="button" class="btn btn-success">Poster</button>]()
-[<button type="button" class="btn btn-danger">BMC</button>](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-020-00575-8)
-[<button type="button" class="btn btn-info">Code</button>]()
+<!-- [<button type="button" class="btn btn-success">Poster</button>]() -->
+[<button type="button" class="btn btn-danger">ArXiv</button>](https://arxiv.org/abs/1910.01789)
+<!-- [<button type="button" class="btn btn-info">Code</button>]() -->
 <!-- [<button type="button" class="btn btn-warning">Code</button>]()  -->
 <!-- [<button type="button" class="btn">Video</button>]() -->
 
@@ -26,11 +26,25 @@ I recently got interested in understanding how deep active learning can be accel
 <sup><sup>&dagger;</sup> Equal Contribution</sup>  
 [<button type="button" class="btn btn-success">Poster</button>](/reports/bmvc19-poster.pdf)
 [<button type="button" class="btn btn-danger">ArXiv</button>](https://arxiv.org/abs/1908.02454)
-[<button type="button" class="btn btn-info">Code</button>]()
+<!-- [<button type="button" class="btn btn-info">Code</button>]() -->
 <!-- [<button type="button" class="btn btn-warning">Code</button>]()  -->
 <!-- [<button type="button" class="btn">Video</button>]() -->
 
-### Other applied projects
+### Other Projects
+
+* **EasyRFP: An Easy to Use Edge Computing Toolkit for Real-Time Field Phenotyping**  
+*Extended Abstract at CVPPP 2020 and ECCV 2020 Demonstration, August 2020*  
+**Abstract:**  
+Recent advances in deep learning have catalyzed rapid progress in high throughput field phenotyping. Much research has been dedicated towards developing accurate and cost effective deep learning models to capture phenotyping traits such as plant stress, yield and plant growth stages. However, there is a shortage of software tools to promote the usage of such intelligent methods among plant phenotyping practitioners and researchers. To bridge this gap, we developed EasyRFP, a Flask back-end, Angular front-end software toolkit which can be interfaced with any commercial GPU enabled micro computer (such as NVIDIA Jetson) and a digital camera.  
+<!-- [<button type="button" class="btn btn-danger">ArXiv</button>](https://github.com/lab1055/easy-rfp) -->
+[<button type="button" class="btn btn-info">Code</button>](https://github.com/lab1055/easy-rfp)
+[<button type="button" class="btn">Video</button>](https://www.youtube.com/watch?v=oAGbpVgPE6U)
+
+* **Computer Vision with Deep Learning for Plant Phenotyping in Agriculture**  
+*A Survey Article Published at Advanced Computing & Communications (ACC) India, March 2020*  
+**Abstract:**  
+In light of growing challenges in agriculture with ever growing food demand across the world, efficient crop management techniques are necessary to increase crop yield. Precision agriculture techniques allow the stakeholders to make effective and customized crop management decisions based on data gathered from monitoring crop environments. Plant phenotyping techniques play a major role in accurate crop monitoring. Advancements in deep learning have made previously difficult phenotyping tasks possible. This survey aims to introduce the reader to the state of the art research in deep plant phenotyping.   
+[<button type="button" class="btn btn-danger">ArXiv</button>](http://arxiv.org/abs/2006.11391)
 
 * **Image & Bounding Box Annotation Slicer**  
 *An Object Detection Data Transformer, April 2019*  
@@ -38,6 +52,7 @@ I recently got interested in understanding how deep active learning can be accel
 This easy-to-use library is a data transformer mainly useful in Object Detection tasks. It slices images and their bounding box annotations into smaller tiles, both into specific sizes and into any arbitrarynumber of equal parts.  It can also resize them, both by specific sizes and by a resizing/scaling factor.  
 [<button type="button" class="btn btn-warning">Docs</button>](https://image-bbox-slicer.readthedocs.io/)
 [<button type="button" class="btn btn-info">Code</button>](https://github.com/acl21/image_bbox_slicer)
+[<button type="button" class="btn btn-success">PyPI</button>](https://pypi.org/project/image-bbox-slicer/)
 
 * **Mouse Cursor Control With Facial Movements**  
 *An HCI Application, October 2018*  
